@@ -43,7 +43,7 @@ This project is licensed under the MIT License.
 **Anonymous**
 
 - GitHub: [@Anonymous](https://github.com/anonymousofficial)
-- WhatsApp Channel: [Join Channel](https://whatsapp.com/channel/0029VbB3YxTDJ6H15SKoBv3S)
+- WhatsApp Channel: [Join Channel](https://whatsapp.com/channel/0029Vb7XEKLFCCocATbz3a1L)
 
 ## 💬 Support
 
