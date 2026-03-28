@@ -55,7 +55,7 @@ For support, join our [WhatsApp Channel](https://whatsapp.com/channel/0029VbB3Yx
 
 **© 2026 NovaX. All rights reserved.**
 
-Made with ❤️ by Anonymous
+Made with 💞 by Anonymous
 
 </div>
 
