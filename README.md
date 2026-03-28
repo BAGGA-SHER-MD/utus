@@ -47,7 +47,7 @@ This project is licensed under the MIT License.
 
 ## 💬 Support
 
-For support, join our [WhatsApp Channel](https://whatsapp.com/channel/0029VbB3YxTDJ6H15SKoBv3S) or open an issue on GitHub.
+For support, join our [WhatsApp Channel](https://whatsapp.com/channel/0029Vb7XEKLFCCocATbz3a1L) or open an issue on GitHub.
 
 ---
 
