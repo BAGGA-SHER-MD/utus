@@ -6,7 +6,7 @@
 <h3 align="center">💻 Passionate Developer | Exploring the Boundless World of Technology 🌍</h3>
 
 <p align="center">
-  <a href="https://wa.me/263789544743" target="_blank">
+  <a href="https://wa.me/+923259855436" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="30">
     <strong>NovaX</strong>
   </a>
